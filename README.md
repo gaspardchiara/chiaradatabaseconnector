@@ -10,8 +10,8 @@ To compile do
 mvn clean install 
 ```
 
-An example programm to connect to a database :
-
+An example program  : 
+Connect to database and search a file.
 
 ```java
 
