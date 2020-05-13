@@ -27,12 +27,13 @@ config.setServerip(myip);
 
 DatabaseAction action = new DatabaseAction();
 
-// on this example we want to retrieve data stored in the chiaradatabase for that 
+// on this example we want to retrieve data stored in the chiaradatabase for that :
 
 byte[] file = action.getdata(config,fileid);
 
-// consult the javadoc for more detail , but for all the other operations the code style is the same
+// consult the javadoc for more details , but for all the other operations the code style is the same
 
 ```
+I think is better to try this example on netbeans ide
 # license 
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
